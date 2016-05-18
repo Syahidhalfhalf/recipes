@@ -1,0 +1,42 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It helped to layout the specific lines that are different or missing and assist me to identify them easily.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Having access to the entire history means I will know when I made certain changes in the file which caused certain variation
+    in functions. This way, I will know when to revert when I know if a certain code change has resulted in the program failure
+    or unintended function.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros: You know the critical saving points of your work and what changes are made for each while automatically saving things
+          in Google makes you oblivious to the main changes that you have made and unsure if it is a significant one or just a
+          small one like a typo error.
+    Cons: You have to be diligent in saving your work at critical points and not be too engrossed with the work at hand to the
+          point that you forget to save which may actually happen.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Some things require two different files to be in line with each other to function properly hence having multiple files in
+    one commit foir this purpose is essential. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log is used to view all the file changes (Past saves) made for the code and git diff allows you to view the changes itself
+    between 2 files.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    It allows me to go back to a past history file where everything works and then work from there again and again till the
+    code works.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fun.
